@@ -11,10 +11,10 @@ The original problem description and data set can be found here: https://www.kag
 
 ## Details
 I have looked into the dataset and managed a few problems like unifying names, removing wrong data, adding new features based on existing data. I have also investigated most of independent variables in the dataset and made a few observations comparing them to each other as well as to the dependent one (no_show). USed matplotlib and seaborn libraries in developing exploratory data anlaysis. And we came to the conclusion based on these plots. For example, on of the plot generated that answers the third question regarding the disease looks as follows:
-
-
+![111](https://user-images.githubusercontent.com/60280080/83816749-18841700-a691-11ea-99d1-6b7f01d71d9f.png)
 
 For details see analysis documentation Jupyter Notebook
+
 ## Conclusion:
 The analysis on data tried to solve the question of what factors are important in order to predict if a patient will show up for their scheduled appointment, the factors that are likely to be affecting patients showing up are the following:
 
